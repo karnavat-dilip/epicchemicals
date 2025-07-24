@@ -1,0 +1,236 @@
+.slide {
+  position: relative;
+  z-index: -1;
+}
+
+#img1 {
+  width: 100vw;
+  aspect-ratio: 2.65/1;
+
+}
+
+#profile-img {
+  width: 30vw;
+  
+  margin: 24px;
+}
+
+#img2 {
+  width: 100vw;
+  aspect-ratio: 2.65/1;
+
+}
+
+.m-top53px {
+  margin-top: 53px;
+}
+
+.h1-container {
+  padding: 25px 0;
+}
+
+.h1-container h1 {
+  border-bottom: 2px solid #94ca5a;
+  width: fit-content;
+  padding: 0 0 7px 0;
+  font-weight: 400;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.swiper-child {
+  width: fit-content;
+
+}
+
+.h-209 {
+  height: 209px;
+}
+
+.swiper-child>a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: -moz-fit-content;
+  width: 289px;
+  padding: 68px 8px;
+  margin-bottom: 32px;
+  border: 2px solid #e9e9e9;
+  text-decoration: none;
+
+}
+
+.swiper-child h3 {
+  color: black;
+  font-size: large;
+  font-weight: 400;
+}
+
+.swiper-child a:hover {
+  border: 2px solid #47deb1;
+  text-decoration: underline;
+  color: #47deb1;
+}
+
+.product-container {
+  margin-top: 45px;
+}
+
+.count-container {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 25px;
+}
+
+.count-container>div {
+  padding: 25px 27px;
+  box-shadow: 0 0 5px 2px #94ca5a;
+  border-radius: 4px 24px;
+  transition: .3s;
+  position: relative;
+  top: 0;
+}
+
+.count-container>div:hover {
+  position: relative;
+  top: -17px;
+}
+
+.count-container h4 {
+  padding: 20px;
+  background: gainsboro;
+  border-radius: 13px 4px;
+  font-weight: 400;
+}
+
+.totalno {
+  text-align: center;
+  font-size: large;
+  padding: 13px;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  
+
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 19px;
+}
+
+.nav-container ul {
+  display: flex;
+  list-style: none;
+}
+
+.nav-container ul li {
+  color: gray;
+  cursor: pointer;
+  padding-left: 13px;
+}
+
+.nav-container ul li:hover {
+  color: #94ca5a;
+}
+
+.text-indent {
+  padding-top: 22px;
+  text-indent: 4em;
+}
+
+.b-btm {
+  border-bottom: 2px solid #94ca5a;
+  width: fit-content;
+  padding: 0 0 7px 0;
+}
+
+.activelink {
+  font-weight: bold;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  align-items: end;
+  row-gap: 50px;
+  column-gap: 50px;
+}
+
+.grid-item {
+  padding: 13px;
+  background: aliceblue;
+  border-radius: 31px;
+  line-height: 2;
+  height: -webkit-fill-available;
+  transition: .4s;
+}
+
+.grid-item h1 {
+  font-weight: 400;
+  font-size: large;
+}
+
+.grid-item:hover {
+  box-shadow: 0 0 12px;
+}
+
+.intro h4 {
+  padding: 12px 0;
+  font-size: large;
+  font-weight: 400;
+}
+
+.intro p {
+  color: gray;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  color: #94ca5a;
+}
+
+.swiper-pagination-bullet {
+  background-color: #94ca5a;
+}
+
+.child_slider {
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-image: url('../../Assets/Epic-chemical/banner.jpg');
+  overflow: hidden;
+  justify-content: space-evenly;
+  background-size: cover;
+}
+.child_slider h1{
+  padding: 0 100px;
+  color: #99c280;
+}
+.inner-img{
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 18px;
+  opacity: 0.7;
+}
+.inner-img .product-img{
+  position: absolute;
+  width: 61%;
+}

@@ -1,0 +1,16 @@
+.gallery {
+    columns: 3;
+    column-gap: 16px;
+}
+
+.gallery-item {
+    display: inline-block;
+    position: relative;
+    margin-bottom: 16px;
+}
+
+.gallery-item img {
+    width: 100%;
+    border-radius: 6px;
+    cursor: pointer;
+}

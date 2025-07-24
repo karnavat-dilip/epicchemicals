@@ -1,0 +1,12 @@
+.iframe-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-bottom: 32px;
+}
+.iframe-container div{
+    box-shadow: 0 0 13px;
+    margin: 14px;
+}
+.iframe-container div iframe{
+    width: -webkit-fill-available;
+}

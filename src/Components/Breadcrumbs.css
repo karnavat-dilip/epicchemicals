@@ -1,0 +1,32 @@
+.breadcrumbs {
+    font-size: 16px;
+    color: #9bc281;
+    text-transform: capitalize;
+  }
+  
+  .breadcrumbs a {
+    text-decoration: none;
+    color: #fff;
+  }
+  .b-crumb-container{
+    padding: 78px;
+    background: url(.././Assets/water.jpg);
+    background-position: center;
+    background-size: cover;
+    filter: opacity(0.9);
+  }
+  .b-child{
+    display: flex;
+    border-radius: 10px;
+    padding: 12px 29px;
+    justify-content: space-between;
+    align-items: baseline;
+    box-shadow: 0 0 6px;
+    background: #263078;
+  }
+  .b-child h1{
+    color: #9bc281;
+    align-self: center;
+    font-size: large;
+    font-weight: 400;
+  }

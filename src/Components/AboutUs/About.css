@@ -1,0 +1,76 @@
+.about-container > :first-child img{
+    width: 100%;
+    
+    border: 1px solid #94ca5a;
+}
+.second-child > h1{
+    text-align: center;
+    padding: 13px;
+    font-size: large;
+    font-weight: 400;
+}
+.second-child > p{
+    text-align: center;
+    padding: 0 111px;
+    line-height: 1.5;
+}
+.second-child > div{
+    display: flex;
+}
+.bd-highlight{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    background: aliceblue;
+}
+.bd-highlight svg{
+    font-size: xx-large;
+    color: #94ca5a;
+    margin-bottom: 19px;
+}
+.bd-highlight h2{
+    font-size: large;
+    font-weight: 400;
+    font-family: fantasy;
+}
+.bd-highlight p{
+    text-align: center;
+    font-size: 12px;
+}
+.ourmission{
+    display: flex;
+    margin: 24px 0;
+}
+.ourmission div{
+    padding: 14px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.ourmission img{
+    width: 262px;
+    aspect-ratio: 2/1;
+    margin-bottom: 11px;
+}
+.ourmission h2{
+    font-size: large;
+    font-weight: 400;
+    color: #94ca5a;
+}
+.ourmission p{
+    text-align: center;
+    font-size: 12px;
+}
+.ourcustomer{
+    padding: 14px 158px;
+}
+.ourcustomer h1{
+    text-align: center;
+    font-weight: 400;
+    font-size: large;
+}
+.ourcustomer p{
+    font-size: 14px;
+}
