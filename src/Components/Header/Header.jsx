@@ -491,19 +491,19 @@ function Header() {
                                             <ul className="mobile-menu-user-menu">
                                                 <li className="header-user-menu-link">
                                                     <IoMdMail />
-                                                    <Link to="mailto:epicchemical@gmail.com" target="_blank">
+                                                    <Link to="mailto:epicchemicals2002@gmail.com" target="_blank">
                                                         &nbsp;
                                                     </Link>
-                                                    <b> epicchemical@gmail.com</b>
+                                                    <b> epicchemicals2002@gmail.com</b>
                                                 </li>
                                                 <li className="header-user-menu-link">
                                                     <IoIosCall />
                                                     <Link to="tel:+91 9426567365" target="_blank">
                                                         <b> +91 9426567365</b>
                                                     </Link>
-                                                    {/* <Link to="tel:+91 9825015702" target="_blank">
-                                                        <b>+91 9825015702</b>
-                                                    </Link> */}
+                                                    <Link to="tel:+91 9978444810" target="_blank">
+                                                        <b>+91 9978444810</b>
+                                                    </Link>
                                                 </li>
                                                 {/* <Link to="tel:+91 9825015702"></Link> */}
                                                 {/*                <li class="header-user-menu-link"><div id="google_translate_element" class="google_translate_element"></div></li>*/}
