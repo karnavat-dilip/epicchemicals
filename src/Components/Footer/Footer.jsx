@@ -109,11 +109,11 @@ function Footer() {
                             <a href='/contact'>Contact Us</a>
                             <ul className='contactus'>
                                 <li>
-                                    <b>Epic Chemical Industries</b>
+                                    <b>Epic Chemicals</b>
                                 </li>
                                 <li>
-                                    Factory address - 19/2, Hebatpur, abu road highway , opp.indian oil pump
-                                    Post-chitrasani, Ta.-palanpur ,Gujarat.
+                                    Factory address - 19/2, Hebatpur,Aburoad highway,opp.indian oil pump
+                                    Post-chitrasani,Ta.-palanpur,Gujarat.
                                 </li>
                                 <li>
                                     Gujarat(INDIA)385010

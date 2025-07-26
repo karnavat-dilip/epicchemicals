@@ -44,14 +44,14 @@ function ProductById() {
 
         ],
         specifications: [
-          'Purity: 98% Min',
-          'Particle Size: 200-500 mesh',
-          'Brightness: 92% Min',
-          'CaCO₃ Content: 58% - 61%'
+          'Grades:100mesh UpTo 10Micrones',
+          'High whiteness and Brightness: 94% Min',
+          'CaCO₃-55%,MgCO3-43%,SiO2-0.60%'
         ],
         other_info: [
-          'Application Areas: Paints, Plastics, Ceramics, Rubber',
-          'Packaging: 25/50 kg HDPE bags',
+          'Application: Paints, Plastics, Ceramics, Rubber',
+          'Packaging: 25/50 kg HDPE/PP bags',
+          'Customize Packing Available',
           'Origin: India'
         ]
       },
@@ -80,6 +80,8 @@ function ProductById() {
           'Enhanced Properties: Improves strength, durability, whiteness, and stability in products like    concrete, plastics, and paints, pvc pie, profiles.',
         ],
         other_info: [
+          'APPLICATIONS:',
+          'used for PVC Pipes,Profiles,Paints,Rubbers,Fillermaster batch,Ceramics,And others...',
           'Coated GCC Option: Steric acid-coated GCC enhances moisture resistance for moisture-sensitive applications like rubber and plastics.',
           'GCC is produced by mining limestone, calcite, or chalk, followed by crushing, grinding, and classifying into fine powders.',
           'using equipment like ultrafine  classifying mills and hammer mills .',
@@ -90,229 +92,229 @@ function ProductById() {
         id: 3,
         img: dolmccb,
         title: 'Coated Calcium Carbonate Powder',
-        description: 'Specially coated Calcium Carbonate optimized for PVC-based applications. Enhances impact resistance, reduces surface imperfections, and improves overall production efficiency in plastic and pipe manufacturing.',
-        features: [
-          'High purity and brightness',
-          'Improves impact resistance',
-          'Enhances processing performance'
-        ],
-        specifications: [
-          'CaCO₃ Content: 96% Min',
-          'Brightness: 94% Min',
-          'Mesh Size: 400 - 700',
-          'Moisture: < 0.3%'
-        ],
-        other_info: [
-          'Application Areas: PVC Pipes, Profiles, Fittings',
-          'Packaging: 25/50 kg HDPE/PP bags',
-          'Origin: India'
-        ]
-      },
-      {
-        id: 4,
-        img: dolgold,
-        title: 'Calcite Powder',
+        description: 'Coated calcium carbonate powder is a specialized form of calcium carbonate that has been treated with a surface coating, typically stearic acid -  Derived from high-purity limestone or marble, ground into fine particles. Coating: Commonly coated with stearic acid(fatty acid) or resins, which modify the surface to improve compatibility with organic materials. Particle Size: Available in a range of fineness, from ultrafine(sub - micron) to coarse grades, depending on the application. Process: The coating is applied during or after grinding, using techniques like wet or dry coating, followed by drying and classification.Physical and Chemical Properties Appearance: White, odorless powder with a smooth texture. Density: Approximately 2.7 g / cm³, depending on the coating and particle size.pH: Neutral to slightly alkaline(around 9 - 10 in water suspension). Moisture Content: Low, typically less than 0.5 %, due to the coating process.',
+  features: [
+    'High purity and brightness',
+    'Improves impact resistance',
+    'Enhances processing performance'
+  ],
+    specifications: [
+      'CaCO₃: 94% Min',
+      'Brightness: 94% Min',
+      'Micron Size: 20 To 5 Micrones',
+      'Moisture: < 0.3%'
+    ],
+      other_info: [
+        'Applications : PVC Pipes and Profiles,Plastics and Rubber',
+        'Packaging: 25/50 kg HDPE/PP bags',
+        'Origin: India'
+      ]
+},
+{
+  id: 4,
+    img: dolgold,
+      title: 'Calcite Powder',
         description: 'Calcite powder can indeed be derived from marble  lumps, as marble is primarily composed of calcite (calcium carbonate, CaCO₃). Marble waste, generated during quarrying, cutting, or processing of marble, is often repurposed to produce calcite powder.',
-        features: [
-          'Chemical Composition: Primarily calcium carbonate (CaCO₃), with minor impurities like magnesium, iron, or silica.',
-          'Appearance: White or gray-white powder.',
-          'Physical Characteristics: High brightness, good dispersibility, and fine particle size (ranging from microns to millimeters, depending on the application).',
-          'Hardness: 3 on the Mohs scale, making it relatively soft.',
-          'Solubility: Low solubility in water, but reacts with acids to release carbon dioxide.'
-        ],
-        specifications: [
-          'Calcite powder is produced by crushing, grinding, and micronizing .',
-          '1.  Mining: Extracting  stone lumps from deposits.',
-          '2.  Crushing: Breaking down large marble rocks into smaller pieces.',
-          '3.  Grinding: Using raymond mills to achieve desired mesh sizes (e.g., 100-500mesh).',
-          '4.  Purification: Removing impurities through processes like washing and  magnetic separation.'
-        ],
-        other_info: [
-          'Applications:',
-          '1.  Detergent and soaps.',
-          '2.  Paints and Coatings.',
-          '3.  Paper Industry.',
-          '4.  Construction materials.',
-          '5.  Pharmaceuticals and Food.',
-          '6.  Agriculture and animal feed .',
-          '7.  Rubber and Adhesives.',
-          'Benefits:',
-          'Cost-effective filler material.',
-          'Enhances product properties like brightness, opacity, and strength.',
-          'Environmentally friendly and non-toxic .',
-          'Grades: Available in various grades.',
-          'Packaging Options Available in 1 MT jumbo bags for industrial use, ensuring safe handling and transportation.  Custom packaging options (25 kg, 50 kg) are also available to meet specific requirements.'
-        ]
-      }
+          features: [
+            'Chemical Composition: Primarily calcium carbonate (CaCO₃), with minor impurities like magnesium, iron, or silica.',
+            'Appearance: White or gray-white powder.',
+            'Physical Characteristics: High brightness, good dispersibility, and fine particle size (ranging from microns to millimeters, depending on the application).',
+            'Hardness: 3 on the Mohs scale, making it relatively soft.',
+            'Solubility: Low solubility in water, but reacts with acids to release carbon dioxide.'
+          ],
+            specifications: [
+              'Calcite powder is produced by crushing, grinding, and micronizing .',
+              '1.  Mining: Extracting  stone lumps from deposits.',
+              '2.  Crushing: Breaking down large marble rocks into smaller pieces.',
+              '3.  Grinding: Using raymond mills to achieve desired mesh sizes (e.g., 100-500mesh).',
+              '4.  Purification: Removing impurities through processes like washing and  magnetic separation.'
+            ],
+              other_info: [
+                'Applications:',
+                '1.  Detergent and soaps.',
+                '2.  Paints and Coatings.',
+                '3.  Paper Industry.',
+                '4.  Construction materials.',
+                '5.  Pharmaceuticals and Food.',
+                '6.  Agriculture and animal feed .',
+                '7.  Rubber and Adhesives.',
+                'Benefits:',
+                'Cost-effective filler material.',
+                'Enhances product properties like brightness, opacity, and strength.',
+                'Environmentally friendly and non-toxic .',
+                'Grades: Available in various grades.',
+                'Packaging Options Available in 1 MT jumbo bags for industrial use, ensuring safe handling and transportation.  Custom packaging options (25 kg, 50 kg) are also available to meet specific requirements.'
+              ]
+}
     ]
   };
 
 
 
 
-  const products = [
-    {
-      id: uuidv4(),
-      img: stardelta,
-      title: 'Dolomite Powder',
-      description:
-        'High-quality Dolomite Powder used in construction, ceramics, glass, and agriculture. Known for its whiteness and purity, it improves soil quality and enhances product durability.',
-    },
-    {
-      id: uuidv4(),
-      img: atspanel,
-      title: 'Calcium Carbonate Powder',
-      description:
-        'Premium-grade Calcium Carbonate Powder widely used in paints, plastics, rubber, and paper industries. It offers excellent brightness and fine particle size for smooth application and consistent performance.',
-    },
-    {
-      id: uuidv4(),
-      img: dolmccb,
-      title: 'Coated Calcium Carbonate Powder',
-      description:
-        'Surface-treated Coated Calcium Carbonate Powder, ideal for plastic and polymer industries. It improves dispersion, increases processing speed, and enhances mechanical properties of final products.',
-    },
-    {
-      id: uuidv4(),
-      img: dolgold,
-      title: 'Calcite Powder',
-      description:
-        'Pure and finely ground Calcite Powder used in paints, adhesives, and PVC pipes. It provides high whiteness, controlled particle size, and excellent chemical properties for various industrial applications.',
-    },
-  ];
+const products = [
+  {
+    id: uuidv4(),
+    img: stardelta,
+    title: 'Dolomite Powder',
+    description:
+      'High-quality Dolomite Powder used in construction, ceramics, glass, and agriculture. Known for its whiteness and purity, it improves soil quality and enhances product durability.',
+  },
+  {
+    id: uuidv4(),
+    img: atspanel,
+    title: 'Calcium Carbonate Powder',
+    description:
+      'Premium-grade Calcium Carbonate Powder widely used in paints, plastics, rubber, and paper industries. It offers excellent brightness and fine particle size for smooth application and consistent performance.',
+  },
+  {
+    id: uuidv4(),
+    img: dolmccb,
+    title: 'Coated Calcium Carbonate Powder',
+    description:
+      'Surface-treated Coated Calcium Carbonate Powder, ideal for plastic and polymer industries. It improves dispersion, increases processing speed, and enhances mechanical properties of final products.',
+  },
+  {
+    id: uuidv4(),
+    img: dolgold,
+    title: 'Calcite Powder',
+    description:
+      'Pure and finely ground Calcite Powder used in paints, adhesives, and PVC pipes. It provides high whiteness, controlled particle size, and excellent chemical properties for various industrial applications.',
+  },
+];
 
-  useEffect(() => {
+useEffect(() => {
 
-    const foundProduct = productsData.panels.find(item => item.id === productId);
-    setProduct(foundProduct);
-  }, [productId]);
+  const foundProduct = productsData.panels.find(item => item.id === productId);
+  setProduct(foundProduct);
+}, [productId]);
 
 
-  const { title, img, description, features, specifications, other_info } = product || {};
+const { title, img, description, features, specifications, other_info } = product || {};
 
-  return (
-    <>
-      <Breadcrumbs title='Product Details Default' />
-      <section className='m-top53px'>
+return (
+  <>
+    <Breadcrumbs title='Product Details Default' />
+    <section className='m-top53px'>
+      <div>
         <div>
-          <div>
-            {product ? (
-              <div>
-                <div className='img-magnify container'>
-                  <div className='border1px'>
-                    <ReactImageMagnify {...{
-                      smallImage: {
-                        alt: 'Wristwatch by Ted Baker London',
-                        isFluidWidth: true,
-                        src: img,
+          {product ? (
+            <div>
+              <div className='img-magnify container'>
+                <div className='border1px'>
+                  <ReactImageMagnify {...{
+                    smallImage: {
+                      alt: 'Wristwatch by Ted Baker London',
+                      isFluidWidth: true,
+                      src: img,
 
-                      },
-                      largeImage: {
-                        src: img,
-                        width: 800,
-                        height: 800
-                      },
-                      enlargedImagePosition: 'over',
-                      lensStyle: { backgroundColor: 'rgba(0,0,0,.6)' }
+                    },
+                    largeImage: {
+                      src: img,
+                      width: 800,
+                      height: 800
+                    },
+                    enlargedImagePosition: 'over',
+                    lensStyle: { backgroundColor: 'rgba(0,0,0,.6)' }
 
-                    }} />
-                  </div>
-                  <div className='description' data-aos="fade-up">
-                    <h2>{title}</h2>
-                    <h3>Description</h3>
-                    <p>{description}</p>
-                    <h3>Features</h3>
-                    <ul>
-                      {features.map((feature, index) => (
-                        <li key={index}>{feature}</li>
-                      ))}
-                    </ul>
-                  </div>
+                  }} />
                 </div>
-
-                <div className='specification'>
-                  <div className='otherinfo' data-aos="fade-up">
-                    <h3>Specifications</h3>
-                    <ul>
-                      {specifications.map((feature, index) => (
-                        <li key={index}>{feature}</li>
-                      ))}
-                    </ul>
-                  </div>
-                  <div className='otherinfo' data-aos="fade-up">
-                    <h3>Other Info</h3>
-                    <ul>
-                      {other_info.map((feature, index) => (
-                        <li key={index}>{feature}</li>
-                      ))}
-                    </ul>
-                  </div>
+                <div className='description' data-aos="fade-up">
+                  <h2>{title}</h2>
+                  <h3>Description</h3>
+                  <p>{description}</p>
+                  <h3>Features</h3>
+                  <ul>
+                    {features.map((feature, index) => (
+                      <li key={index}>{feature}</li>
+                    ))}
+                  </ul>
                 </div>
               </div>
-            ) : (
-              <p>Product not found</p>
-            )}
-          </div>
+
+              <div className='specification'>
+                <div className='otherinfo' data-aos="fade-up">
+                  <h3>Specifications</h3>
+                  <ul>
+                    {specifications.map((feature, index) => (
+                      <li key={index}>{feature}</li>
+                    ))}
+                  </ul>
+                </div>
+                <div className='otherinfo' data-aos="fade-up">
+                  <h3>Other Info</h3>
+                  <ul>
+                    {other_info.map((feature, index) => (
+                      <li key={index}>{feature}</li>
+                    ))}
+                  </ul>
+                </div>
+              </div>
+            </div>
+          ) : (
+            <p>Product not found</p>
+          )}
         </div>
-      </section>
-      <section className='m-top53px' data-aos="fade-up">
-        <div className='container'>
-          <div className='h1-container'><h1>Related Products</h1></div>
-          <div>
-            <Swiper
+      </div>
+    </section>
+    <section className='m-top53px' data-aos="fade-up">
+      <div className='container'>
+        <div className='h1-container'><h1>Related Products</h1></div>
+        <div>
+          <Swiper
 
-              breakpoints={{
-                640: {
-                  slidesPerView: 3,
-                  spaceBetween: 20,
-                },
-                768: {
-                  slidesPerView: 4,
-                  spaceBetween: 40,
-                },
-                1024: {
-                  slidesPerView: 3,
-                  spaceBetween: 50,
-                },
-              }}
-              loop={true}
-              centeredSlides={true}
-              autoplay={{
-                delay: 2500,
-                disableOnInteraction: false,
-              }}
-              pagination={true}
-              navigation={true}
-              modules={[Autoplay, Navigation]}
+            breakpoints={{
+              640: {
+                slidesPerView: 3,
+                spaceBetween: 20,
+              },
+              768: {
+                slidesPerView: 4,
+                spaceBetween: 40,
+              },
+              1024: {
+                slidesPerView: 3,
+                spaceBetween: 50,
+              },
+            }}
+            loop={true}
+            centeredSlides={true}
+            autoplay={{
+              delay: 2500,
+              disableOnInteraction: false,
+            }}
+            pagination={true}
+            navigation={true}
+            modules={[Autoplay, Navigation]}
 
-            >
-              {
-                products?.map((product, index) => {
-                  return (
-                    <SwiperSlide key={product.id} className='related-product'>
-                      <Link key={product.id} to={`/Allproduct/${index + 1}`}>
-                        <img src={product.img} width='200' />
-                        <h4>{product.title}</h4>
-                        <p>{`${product.description.slice(0, 48)}...`}</p>
-                        <ul>
-                          <li><a >Read More</a></li>
-                        </ul>
-                      </Link>
-                    </SwiperSlide>
-                  )
-                })
+          >
+            {
+              products?.map((product, index) => {
+                return (
+                  <SwiperSlide key={product.id} className='related-product'>
+                    <Link key={product.id} to={`/Allproduct/${index + 1}`}>
+                      <img src={product.img} width='200' />
+                      <h4>{product.title}</h4>
+                      <p>{`${product.description.slice(0, 48)}...`}</p>
+                      <ul>
+                        <li><a >Read More</a></li>
+                      </ul>
+                    </Link>
+                  </SwiperSlide>
+                )
+              })
 
-              }
-            </Swiper>
-          </div>
-
+            }
+          </Swiper>
         </div>
-      </section>
-      <section className='m-top53px'>
 
-      </section>
-    </>
-  )
+      </div>
+    </section>
+    <section className='m-top53px'>
+
+    </section>
+  </>
+)
 }
 
 export default ProductById

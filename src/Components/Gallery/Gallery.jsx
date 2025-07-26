@@ -6,23 +6,20 @@ import Lightbox from 'react-image-lightbox';
 import 'react-image-lightbox/style.css';
 import './Gallery.css';
 import Breadcrumbs from '../Breadcrumbs';
-import i1 from '../../Assets/Assets/img1.webp'
-import i2 from '../../Assets/Assets/img2.webp'
-import i3 from '../../Assets/Assets/img3.webp'
-import i4 from '../../Assets/Assets/img4.webp'
-import i5 from '../../Assets/Assets/Pipes-PVC-Products.webp'
-import i6 from '../../Assets/Assets/animal-feed.webp'
-import i7 from '../../Assets/Assets/water-treatment.webp'
-import i8 from '../../Assets/Assets/paper-printing.webp'
-import i9 from '../../Assets/Assets/paints-coating.webp'
-import i10 from '../../Assets/Epic-chemical/img1.jpg'
-import i11 from '../../Assets/Epic-chemical/img2.jpg'
-import i12 from '../../Assets/Epic-chemical/img3.jpg'
-import i13 from '../../Assets/Epic-chemical/img4.jpg'
-import i14 from '../../Assets/Epic-chemical/img5.jpg'
+import i1 from '../../Assets/Assets/img1.jpg'
+import i2 from '../../Assets/Assets/img2.jpg'
+import i3 from '../../Assets/Assets/img3.jpg'
+import i4 from '../../Assets/Assets/Pipes-PVC-Products.webp'
+import i5 from '../../Assets/Assets/paper-printing.webp'
+import i6 from '../../Assets/Assets/paints-coating.webp'
+import i7 from '../../Assets/Epic-chemical/img1.jpg'
+import i8 from '../../Assets/Epic-chemical/img2.jpg'
+import i9 from '../../Assets/Epic-chemical/img3.jpg'
+import i10 from '../../Assets/Epic-chemical/img4.jpg'
+
 
 const images = [
-  i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12,i13,i14
+  i1,i2,i3,i4,i5,i6,i7,i8,i9,i10
 ];
 
 const Gallery = () => {
